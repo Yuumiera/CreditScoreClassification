@@ -1,4 +1,4 @@
-# Credit Score Classification Projec
+# Credit Score Classification Project
 This project aims to classify a user's credit score. Various data preprocessing steps have been applied to the dataset, imbalance issues have been addressed, and different machine learning models have been used for classification.
 
 Project Content
@@ -43,6 +43,8 @@ matplotlib
 scikit-learn
 xgboost
 lightgbm
-imblearn
+imblearn 
+
 To install the necessary libraries, you can use the following command:
+
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost lightgbm imbalanced-learn
